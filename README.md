@@ -17,4 +17,4 @@ An example key is shown below:
 >
 Make sure that the plugboard combinations contains an even number of letters, and that there are no duplicates.
 
-Access on [replit](https://www.replit.com/@egrav/ComplexCipher)
+Access on [replit](https://replit.com/@egrav/ComplexCipher) or JS version on [frgo.org](https://frgo.org/enigma/)
