@@ -17,5 +17,6 @@ An example key is shown below:
 >
 Make sure that the plugboard combinations contains an even number of letters, and that there are no duplicates.
 
-Access on [replit](https://replit.com/@egrav/ComplexCipher) or JS version on [frgo.org](https://frgo.org/enigma/)
-Note that cipher is not case-sensitive, and all letters will be converted to capital letters.
+Access on [replit](https://replit.com/@egrav/ComplexCipher) or JS version on [frgo.org](https://frgo.org/enigma/)  
+
+Note that cipher is not case-sensitive, and all letters will be converted to capital letters. It does, however, matter if you have spaces, so if there are spaces between words, and you wish to remove them, do so before encryption, not afterwards.
