@@ -1,4 +1,4 @@
-# encode-decode
+# enigma
 Based on the German **Enigma machine** used in WWII. As this cipher is self-reciprocal, the same function can be used to encode and decode.
 ## how to use
 To use, enter your input of either plaintext of ciphertext. Then, enter your key. The same key will be used for encryption and decryption, and it is highly unlikely that a different key will yield the same results.
